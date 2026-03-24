@@ -1,0 +1,1 @@
+node_modules/\n*.db\n__pycache__/\n.venv/\nsentinel-reports/\ndist/\n.env.local

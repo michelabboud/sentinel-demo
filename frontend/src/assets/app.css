@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+/* Custom unused class — Sentinel CSS dead class analysis should catch this */
+.legacy-banner {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  padding: 2rem;
+  border-radius: 1rem;
+}
+
+/* Another unused class */
+.old-card-style {
+  border: 2px solid #e2e8f0;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}

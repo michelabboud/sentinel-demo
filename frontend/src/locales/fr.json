@@ -1,0 +1,30 @@
+{
+  "nav": {
+    "tasks": "Taches",
+    "groups": "Groupes",
+    "users": "Utilisateurs"
+  },
+  "login": {
+    "title": "Connexion",
+    "email": "Adresse email",
+    "password": "Mot de passe",
+    "submit": "Se connecter"
+  },
+  "dashboard": {
+    "title": "Tableau de bord",
+    "welcome": "Bienvenue"
+  },
+  "tasks": {
+    "title": "Toutes les taches",
+    "create": "Nouvelle tache",
+    "status": {
+      "todo": "A faire",
+      "in_progress": "En cours",
+      "done": "Termine"
+    }
+  },
+  "groups": {
+    "title": "Groupes",
+    "create": "Nouveau groupe"
+  }
+}
