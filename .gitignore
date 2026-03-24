@@ -1,1 +1,7 @@
-node_modules/\n*.db\n__pycache__/\n.venv/\nsentinel-reports/\ndist/\n.env.local
+node_modules/
+*.db
+__pycache__/
+.venv/
+sentinel-reports/
+dist/
+.env.local
